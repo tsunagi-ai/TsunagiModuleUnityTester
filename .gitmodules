@@ -1,3 +1,3 @@
-[submodule "module"]
+[submodule "Assets/TsunagiModule"]
 	path = Assets/TsunagiModule
 	url = https://github.com/tsunagi-ai/TsunagiModuleUnity
